@@ -934,6 +934,11 @@ StScrollBar {
   }
 
   #panelActivities.panel-button { -natural-hpadding: 0; }
+  
+  #panelRight .panel-button {
+    -natural-hpadding: 4px;
+    -minimum-hpadding: 4px;
+  }
 
   .panel-status-indicators-box,
   .panel-status-menu-box {
