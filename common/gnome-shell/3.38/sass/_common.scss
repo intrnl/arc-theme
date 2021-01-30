@@ -935,7 +935,7 @@ StScrollBar {
 
   #panelActivities.panel-button { -natural-hpadding: 0; }
   
-  #panelRight .panel-button {
+  #panelRight .panel-button:last-child {
     -natural-hpadding: 4px;
     -minimum-hpadding: 4px;
   }
