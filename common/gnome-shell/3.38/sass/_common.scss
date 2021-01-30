@@ -982,8 +982,8 @@ StScrollBar {
 // a little unstructured mess:
 
 #appMenu {
-  spacing: 4px;
-  padding: 0 8px;
+  spacing: 0;
+  padding: 0;
 
   .label-shadow { color: transparent; }
 }
