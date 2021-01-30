@@ -805,7 +805,7 @@ StScrollBar {
 #panel {
   font-weight: bold;
   font-feature-settings: "tnum";
-  height: 2.1em;
+  height: 0;
   min-height: 26px;
   background-gradient-direction: none;
   background-color: $shell_osd_background_color;
